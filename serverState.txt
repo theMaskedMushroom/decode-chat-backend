@@ -1,0 +1,1 @@
+{"userCreds":{"james":"f41a41e796d7a0cea8b9d2e365a7a0a2d0382a3982e057866960c242444c4172","jack":"33b7f7879e4c2cee365a605d345179fbfc74c88f1b4ca6b3b1b18e16848906bb"},"salts":{"james":"6798f5b0-deb3-11e8-af14-6b33ad4c2325","jack":"be02b950-ded5-11e8-87df-f5f87e0c27b9"},"sessions":{"be037ca0-ded5-11e8-87df-f5f87e0c27b9":"jack","8cc9c3b0-deda-11e8-a22d-897c3a4c85bc":"james"}}
